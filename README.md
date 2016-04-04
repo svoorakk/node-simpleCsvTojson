@@ -5,3 +5,8 @@ Module to convert a CSV file into a JSON Array. Following is assumed :
 - Field separator is comma
 - First line has field names
 All values are represented as strings.
+
+Installing:
+'''
+npm install csvTojson
+'''
