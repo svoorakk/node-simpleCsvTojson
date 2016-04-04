@@ -1,0 +1,13 @@
+{
+	"name": "csvToJson",
+	"description":"Converts a string with csv data into json. First line should contain the field names. Line break is assumed to be '\r\n'.",
+	"tags": ["csv", "json", "csv2json"],
+	"main": "index.js",
+	"version": "0.0.1",
+	"author": {
+		"name": "Sridhar Voorakkara",
+		"email": "sridhar1803@hotmail.com"
+	},
+	"scripts": {
+		"test": "node tests/test.js"
+  }}
