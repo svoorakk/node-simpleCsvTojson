@@ -1,4 +1,4 @@
-# csvTojson
+# simpleCsvTojson
 
 Module to convert a CSV file into a JSON Array. Following is assumed :
 - Line break character sequence is "\r\n"
