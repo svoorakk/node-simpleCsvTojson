@@ -8,12 +8,12 @@ All values are represented as strings.
 
 Installing:
 <pre>
-npm install csvTojson
+npm install simpleCsvTojson
 </pre>
 Usage:
 <pre>
-var csv2Json = require('csvToJson');
-csv2Json.getJson(txt, function(err,json) {
+var simpleCsvToJson = require('simpleCsvToJson');
+simpleCsvToJson.getJson(txt, function(err,json) {
   console.log(json);
 });
 </pre>
